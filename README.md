@@ -1,6 +1,5 @@
-<p align='center'>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=tqrahman)
-</p>
+
 <!--
 **tqrahman/tqrahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
